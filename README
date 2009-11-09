@@ -1,0 +1,16 @@
+= Flickr Widget =
+tags: flickr, photos, photography, widget
+
+Homepage: www.freetofeel.com
+Author: Joshua Chi
+Based on: http://donncha.wordpress.com/flickr-widget/ & http://www.flickr.com/fun/zeitgeist/
+
+== Installation ==
+1. Make sure you have the Widget plugin available at http://automattic.com/code/widgets/
+1. Copy flickr_widget.php to your plugins folder, /wp-content/plugins/widgets/
+2. Activate it through the plugin management screen.
+3. Go to Themes->Sidebar Widgets and drag and drop the widget to wherever you want to show it.
+
+== Changelog ==
+
+0.1 Based on http://donncha.wordpress.com/flickr-widget/ 
