@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Flickr Widget
-Plugin URI: http://www.freetofeel.com/flickr-widget/
+Plugin URI: http://www.freetofeel.com/2009/11/flickr-widget/
 Description: A widget which will display your Flickr photos.
 Author: Joshua Chi <joshokn at gmail.com>
 Version: 0.1
