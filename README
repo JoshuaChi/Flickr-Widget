@@ -3,7 +3,11 @@ tags: flickr, photos, photography, widget
 
 Homepage: www.freetofeel.com
 Author: Joshua Chi
-Based on: http://donncha.wordpress.com/flickr-widget/ & http://www.flickr.com/fun/zeitgeist/
+Copyright (c) 2009 5span, Inc.
+
+Flickr Widget displays Flickr Daily Zeitgeistlatest generated at http://www.flickr.com/fun/zeitgeist/ on your wordpress blog.
+
+Released under the terms of the GNU GPL, version 2.  http://www.fsf.org/licensing/licenses/gpl.html
 
 == Installation ==
 1. Make sure you have the Widget plugin available at http://automattic.com/code/widgets/
